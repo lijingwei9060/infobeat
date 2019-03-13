@@ -1,0 +1,5 @@
+= Infobeat Docs
+
+Welcome to the Infobeat documentation.
+
+

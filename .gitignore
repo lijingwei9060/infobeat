@@ -1,0 +1,10 @@
+/.idea
+/build
+
+.DS_Store
+/infobeat
+/infobeat.test
+*.pyc
+
+/vendor/*
+!/vendor/vendor.json

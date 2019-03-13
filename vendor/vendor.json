@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "",
+	"package": [
+		{
+			"checksumSHA1": "PrV/nOTNSvXZ8fnHSszyoD2u9ik=",
+			"path": "github.com/lijingwei9060/go-smbios/smbios",
+			"revision": "cd467b6a2a1075437b1329cb0933db01cdd29307",
+			"revisionTime": "2019-03-13T03:07:07Z"
+		}
+	],
+	"rootPath": "github.com/lijingwei9060/infobeat"
+}
