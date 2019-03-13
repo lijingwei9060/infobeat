@@ -3,10 +3,10 @@
 	"ignore": "",
 	"package": [
 		{
-			"checksumSHA1": "PrV/nOTNSvXZ8fnHSszyoD2u9ik=",
+			"checksumSHA1": "8XuSE0WJRcV3KNUwqSJBM52iF6Q=",
 			"path": "github.com/lijingwei9060/go-smbios/smbios",
-			"revision": "cd467b6a2a1075437b1329cb0933db01cdd29307",
-			"revisionTime": "2019-03-13T03:07:07Z"
+			"revision": "3c38b7cda887e2a7df14eb1e62a424c52e7d5aa0",
+			"revisionTime": "2019-03-13T03:57:27Z"
 		}
 	],
 	"rootPath": "github.com/lijingwei9060/infobeat"
