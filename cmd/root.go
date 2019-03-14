@@ -2,6 +2,7 @@ package cmd
 
 import (
 	"github.com/lijingwei9060/infobeat/beater"
+	_ "github.com/lijingwei9060/infobeat/monitors/defaults"
 
 	cmd "github.com/elastic/beats/libbeat/cmd"
 )
